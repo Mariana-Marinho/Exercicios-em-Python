@@ -1,0 +1,6 @@
+frase = input('digite uma frase qualquer: ')
+print('A sua frase contém', frase.count("a"), 'vezes a letra a')
+prim = frase.find("a")
+print(f'A primeira vez que o a aparece é na posição {prim}')
+ult = frase.rfind("a")
+print(f'a ultima vez que a letra a aparece é na posição {ult}')

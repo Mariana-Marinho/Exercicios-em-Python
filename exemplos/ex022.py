@@ -1,0 +1,7 @@
+nome = input('digite o seu nome completo: ')
+print(nome.upper(), 'é como fica seu nome em maiúsculo')
+print(nome.lower(), 'é como fica seu nome em minúsculo')
+print(len(nome.replace(" ", "")), 'letras ao todo')
+print(f'também posso contar assim: {len(nome)-nome.count(" ")}')
+nomes = nome.split()
+print(f'Olá, {nomes[0].capitalize()}, você tem {len(nomes[0])} letras no seu primeiro nome!')
