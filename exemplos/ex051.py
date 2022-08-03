@@ -6,6 +6,6 @@ r = float(input('digite a razão da progressão: '))
 progressao = []
 for n in range(1, 11):
     termo = a1 + (n - 1) * r
-    print(f'o {n}º termo é {termo}')
+    print(f'o {n:2}º termo é {termo:2}')
     progressao.insert(n, termo)
 print(f'os 10 primeiros termos da progressão: {progressao}')
