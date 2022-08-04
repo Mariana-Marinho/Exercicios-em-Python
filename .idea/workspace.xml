@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="mais exercícios feitos">
-      <change afterPath="$PROJECT_DIR$/aulas/aula15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex066.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex057.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex058.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex058.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex059.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex060.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex060.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex062.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex062.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex063.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex063.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex064.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex064.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex065.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex065.py" afterDir="false" />
-    </list>
+    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="mais exercícios feitos, até o 66" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659538483372</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="mais exercícios feitos, até o 66">
+      <created>1659581156728</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659581156728</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +250,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mais exercícios feitos" />
-    <option name="LAST_COMMIT_MESSAGE" value="mais exercícios feitos" />
+    <MESSAGE value="mais exercícios feitos, até o 66" />
+    <option name="LAST_COMMIT_MESSAGE" value="mais exercícios feitos, até o 66" />
   </component>
 </project>
