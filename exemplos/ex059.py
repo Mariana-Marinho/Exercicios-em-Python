@@ -6,8 +6,8 @@ Programa que lê dois valores e mostre o menu:
 [4] novos números
 [5] sair do programa
 """
-i = 0
-while i == 0:
+escolha = 0
+while operacao != 5:
     numero1 = float(input('\ndigite o primeiro número: '))
     numero2 = float(input('digite o segundo número: '))
     operacao = int(input('''\n
@@ -31,5 +31,5 @@ sua escolha: '''))
         else:
             print('os números são iguais')
     elif operacao == 5:
+        print('\nprograma finalizado')
         break
-print('programa finalizado')

@@ -2,17 +2,15 @@
 n primeiros termos da sequencia fibonacci
 """
 print('SEQUÊNCIA FIBONACCI\n')
-n = int(input('digite quantos termos vocÊ deseja: '))
-fibonacci = 0
-c = 0
+quantidade = int(input('digite quantos termos você deseja: '))
 a = 0
 b = 1
-print('1', end=", ")
-n -= 1
-while n > c:
+print(f'{a}, {b}', end=", ")
+contador = 2
+while quantidade > contador:
     fibonacci = a + b
     a = b
     b = fibonacci
     print(fibonacci, end=', ')
-    c += 1
-print(f'são os {n+1} primeiros termos da sequência fibonacci')
+    contador += 1
+print(f'são os {quantidade} primeiros termos da sequência fibonacci')

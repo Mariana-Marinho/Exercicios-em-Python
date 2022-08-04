@@ -15,5 +15,6 @@ while i >= 0:
     else:
         break
 media = soma / i
+print(numeros)
 print(f'a média dos {i} números digitados foi {media}')
 print(f'o maior número foi {max(numeros)} e o menor número foi {min(numeros)}')

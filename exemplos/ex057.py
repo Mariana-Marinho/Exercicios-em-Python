@@ -1,8 +1,7 @@
 """
 Programa que lê o sexo de uma pessoa, caso esteja errado peça novamente
 """
-i = 0
-while i == 0:
-    sexo = input('Sexo [F/M] ? ').upper()
-    if not sexo in 'M' and not sexo in 'F':
-        print('digite novamente')
+sexo = input('Sexo [F/M]:  ').upper()[0]
+while sexo not in 'FM' or sexo == "":
+    sexo = input('digite seu sexo M ou F: ').upper()
+print(f'sexo {sexo} registrado')

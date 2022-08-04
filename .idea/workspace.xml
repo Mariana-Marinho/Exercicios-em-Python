@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="mais exercícios feitos">
-      <change afterPath="$PROJECT_DIR$/exemplos/ex061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex066.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex057.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex058.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex059.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex059.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exemplos/ex060.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex060.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex062.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex062.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex063.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex063.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex064.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex064.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex065.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex065.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +65,8 @@
       <recent name="C:\Users\maria\PycharmProjects\pythonexercicios\exemplos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex065">
-    <configuration name="ex061" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex066">
+    <configuration name="ex058" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +78,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex061.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex058.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex060" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonexercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exemplos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex060.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex064" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex066" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,28 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex064.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonexercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exemplos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex065.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex066.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex065" />
-        <item itemvalue="Python.ex064" />
+        <item itemvalue="Python.ex066" />
         <item itemvalue="Python.ex063" />
         <item itemvalue="Python.ex062" />
-        <item itemvalue="Python.ex061" />
+        <item itemvalue="Python.ex060" />
+        <item itemvalue="Python.ex058" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659497114220</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mais exercícios feitos">
+      <created>1659538483372</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659538483372</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
