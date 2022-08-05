@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="mais exercícios feitos, até o 66">
-      <change afterPath="$PROJECT_DIR$/exemplos/ex067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex071.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios com for e while (067, 068, 069, 070, 071)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659581156728</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="exercícios com for e while (067, 068, 069, 070, 071)">
+      <created>1659667771058</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659667771058</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +261,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mais exercícios feitos" />
     <MESSAGE value="mais exercícios feitos, até o 66" />
-    <option name="LAST_COMMIT_MESSAGE" value="mais exercícios feitos, até o 66" />
+    <MESSAGE value="exercícios com for e while (067, 068, 069, 070, 071)" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios com for e while (067, 068, 069, 070, 071)" />
   </component>
 </project>
