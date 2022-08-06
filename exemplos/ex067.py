@@ -1,14 +1,12 @@
 """
 mostrar a tabuada de vários números, interromper quando ler um negativo
 """
-num = c = 1
-while num >= 1:
+while True:
     num = int(input(f'tabuada do número: '))
     print('_' * 20)
-    while num >= 1 and c <= 10:
-        tabuada = num*c
-        print(f'{num:3} x {c:2} = {tabuada:3}')
-        c += 1
+    if num < 0:
+        break
+    for c in range(1, 11):
+        print(f'{num:3} x {c:2} = {(num*c):3}')
     print('_'*20)
-    c = 1
 print('tabuada finalizada.')

@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios com for e while (067, 068, 069, 070, 071)" />
+    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios com for e while (067, 068, 069, 070, 071)">
+      <change afterPath="$PROJECT_DIR$/aulas/aula016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex071a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex074.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex066.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex066.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex067.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex067.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex068.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex068.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex069.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex069.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex070.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex070.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +44,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2CGxZJhc7iKRnSwRCvBdN6xiObR" />
   <component name="ProjectViewState">
@@ -56,8 +68,8 @@
       <recent name="C:\Users\maria\PycharmProjects\pythonexercicios\exemplos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex071">
-    <configuration name="ex067" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex074">
+    <configuration name="aula016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exemplos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex067.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/aula016.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex068" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex071a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex068.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex071a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex069" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex072" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex069.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex072.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex070" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex070.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex073.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex071" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex071.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex074.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex071" />
-        <item itemvalue="Python.ex070" />
-        <item itemvalue="Python.ex069" />
-        <item itemvalue="Python.ex068" />
-        <item itemvalue="Python.ex067" />
+        <item itemvalue="Python.ex074" />
+        <item itemvalue="Python.ex073" />
+        <item itemvalue="Python.aula016" />
+        <item itemvalue="Python.ex072" />
+        <item itemvalue="Python.ex071a" />
       </list>
     </recent_temporary>
   </component>

@@ -1,9 +1,8 @@
 """
 Programa que lê idade e sexo, mostrar quantos são de maior, quantos homens e quantas mulheres menores de 20 anos
 """
-i = 0
-m = h = 0
-while i >= 0:
+m = h = i = 0
+while True:
     print('-'*20)
     print('CADASTRE UMA PESSOA\n')
     print('-' * 20)
@@ -13,7 +12,7 @@ while i >= 0:
         i += 1
     if sexo in 'F' and idade > 20:
         m += 1
-    elif sexo in 'M':
+    if sexo in 'M':
         h += 1
     escolha = input('\nquer continuar? [S/N] ').strip().upper()[0]
     print('\n')

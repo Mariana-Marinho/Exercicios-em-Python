@@ -5,18 +5,16 @@ print('&'*20)
 print('LENDO PREÇOS DE PRODUTOS')
 print('&'*20)
 continuar = 'S'
-mais_barato = []
+mais_barato = ''
 caros = comparar = total = 0
-while continuar == 'S':
+while continuar != 'N':
     produto = input('\nnome do produto: ').strip().capitalize()
-    valor = float(input('valor: '))
-    total += valor
-    if comparar == 0:
-        comparar = valor
-    if valor <= comparar:
-        comparar = valor
+    menor = float(input('valor: '))
+    total += menor
+    if comparar == 0 or menor <= comparar:
+        comparar = menor
         mais_barato = produto
-    if valor >= 1000:
+    if menor >= 1000:
         caros += 1
     continuar = input('deseja continuar? [S/N]: ').strip().upper()[0]
 print(f'''
