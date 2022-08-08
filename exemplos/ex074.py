@@ -10,5 +10,5 @@ for i in range(0, 5):
 for i in range(0, 5):
     if numeros[i] >= maior:
         maior = numeros[i]
-print(numeros)
+print(f'foram sorteados os números {numeros}')
 print(f'o maior valor é {maior} e o menor é {menor}')
