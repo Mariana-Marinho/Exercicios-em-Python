@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios feitos: 071a, 072, 073, 074&#10;exercícios otimizados: 066, 067, 068, 069, 070">
-      <change afterPath="$PROJECT_DIR$/exemplos/ex074a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex076.py" afterDir="false" />
+    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios feitos: 074a, 075, 076&#10;exercícios otimizados: 074">
+      <change afterPath="$PROJECT_DIR$/aulas/aula017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/ex083.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex074.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex074.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplos/ex076.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex076.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +67,8 @@
       <recent name="C:\Users\maria\PycharmProjects\pythonexercicios\exemplos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex075">
-    <configuration name="ex073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex083">
+    <configuration name="ex078" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex073.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex078.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex080" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex074.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex080.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex074a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex081" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex074a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex081.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex082" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex075.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex082.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex083" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex076.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex083.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex075" />
-        <item itemvalue="Python.ex074a" />
-        <item itemvalue="Python.ex076" />
-        <item itemvalue="Python.ex074" />
-        <item itemvalue="Python.ex073" />
+        <item itemvalue="Python.ex083" />
+        <item itemvalue="Python.ex080" />
+        <item itemvalue="Python.ex078" />
+        <item itemvalue="Python.ex082" />
+        <item itemvalue="Python.ex081" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659750797549</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="exercícios feitos: 074a, 075, 076&#10;exercícios otimizados: 074">
+      <created>1659927291490</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659927291490</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,6 +288,7 @@
     <MESSAGE value="mais exercícios feitos, até o 66" />
     <MESSAGE value="exercícios com for e while (067, 068, 069, 070, 071)" />
     <MESSAGE value="exercícios feitos: 071a, 072, 073, 074&#10;exercícios otimizados: 066, 067, 068, 069, 070" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios feitos: 071a, 072, 073, 074&#10;exercícios otimizados: 066, 067, 068, 069, 070" />
+    <MESSAGE value="exercícios feitos: 074a, 075, 076&#10;exercícios otimizados: 074" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios feitos: 074a, 075, 076&#10;exercícios otimizados: 074" />
   </component>
 </project>
