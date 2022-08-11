@@ -1,9 +1,9 @@
 """
 Ler números, botar em lista, fazer outras duas listas com pares e ímpares
 """
-lista = []
-pares = []
-impares = []
+lista = list()
+pares = list()
+impares = list()
 while True:
     lista.append(int(input('digite um número: ')))
     escolha = input('deseja continuar? [S/N]: ')[0]
