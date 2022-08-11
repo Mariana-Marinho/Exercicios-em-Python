@@ -14,11 +14,13 @@ while True:
     pessoas.append(dados[:])
     dados.clear()
     c += 1
+
     for p in pessoas:
-        if p[1] >= maior or p == pessoas[0]:
+        if p == pessoas[0] or p[1] >= maior:
             maior = p[1]
-        if p[1] <= menor or p == pessoas[0]:
+        if p == pessoas[0] or p[1] <= menor:
             menor = p[1]
+
     e = input('deseja continuar? [S/N] ').upper()[0]
     if e == 'N':
         break
@@ -29,7 +31,9 @@ for p in pessoas:
     if p[1] == maior:
         print(p[0], end=' ')
 
-print(f'\no menor peso foi de {menor}: ', end='')
+print('')
+
+print(f'o menor peso foi de {menor}: ', end='')
 for p in pessoas:
     if p[1] == menor:
         print(p[0], end=' ')

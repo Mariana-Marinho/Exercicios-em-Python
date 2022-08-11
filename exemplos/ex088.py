@@ -6,18 +6,19 @@ from time import sleep
 
 jogos = list()
 palpites = list()
-print('MEGA SENA')
+
 print('_'*40)
+print(f'{"MEGA SENA":^40}')
+print('_'*40)
+
 quant = int(input('quantos jogos você deseja? '))
 for i in range(0, quant):
-    for c in range(0, 6):
+    while len(palpites) < 6:
         numero = randint(1, 60)
         if numero not in palpites:
             palpites.append(numero)
-        else:
-            numero = randint(1, 60)
-            palpites.append(numero)
+
     jogos.append(palpites[:])
-    print(f'jogo {i}: {jogos[i]}')
+    print(f'jogo {i+1}: {jogos[i]}')
     sleep(0.5)
     palpites.clear()
