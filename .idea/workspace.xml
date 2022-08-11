@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios feitos: 084, 085, 086, 087, 088, 089&#10;exercícios otimizados: 082">
-      <change afterPath="$PROJECT_DIR$/aulas/aula019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex084.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex084.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex085.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex085.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex086.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex086.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex087.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex087.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex088.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex088.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex089.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex089.py" afterDir="false" />
-    </list>
+    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios otimizados: 084, 085, 086, 087, 088, 089" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660184290761</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="exercícios otimizados: 084, 085, 086, 087, 088, 089">
+      <created>1660228881847</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660228881847</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,6 +301,7 @@
     <MESSAGE value="exercícios feitos: 074a, 075, 076&#10;exercícios otimizados: 074" />
     <MESSAGE value="exercícios feitos: 077, 078, 079, 080, 081, 082, 083&#10;exercícios otimizados: 076" />
     <MESSAGE value="exercícios feitos: 084, 085, 086, 087, 088, 089&#10;exercícios otimizados: 082" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios feitos: 084, 085, 086, 087, 088, 089&#10;exercícios otimizados: 082" />
+    <MESSAGE value="exercícios otimizados: 084, 085, 086, 087, 088, 089" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios otimizados: 084, 085, 086, 087, 088, 089" />
   </component>
 </project>
