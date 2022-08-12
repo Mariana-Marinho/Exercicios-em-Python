@@ -7,6 +7,12 @@ boletim['nome'] = str(input('nome: '))
 boletim['media'] = int(input('media: '))
 
 if boletim['media'] >= 7:
-    print('você está aprovado')
+    boletim['situacao'] = 'aprovado'
+elif boletim['media'] in range(5, 7):
+    boletim['situacao'] = 'recuperação'
 else:
-    print('você está reprovado')
+    boletim['situacao'] = 'reprovado'
+print()
+
+for k, v in boletim.items():
+    print(f'{k}: {v}')

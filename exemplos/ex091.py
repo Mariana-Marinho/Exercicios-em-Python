@@ -3,18 +3,17 @@
 """
 from random import randint
 
-dado = dict()
-maior = 0
 
-for i in range(1, 5):
-    dado[f'jogador {i}'] = randint(1, 6)
+aposta = dict()
+jogadores = list()
 
-print(dado)
+for i in range(0, 4):
+    aposta = {
+        'jogador': f'jogador{i+1}',
+        'numero': randint(1, 6)
+    }
+    print(aposta)
+    jogadores.append(aposta.copy())
+    aposta.clear()
+print(jogadores)
 
-for k, v in dado.items():
-    if k == 'jogador 1' or v >= maior:
-        maior = v
-    print(f'k vale a primeira chave: {k}')
-    print(f'v vale o quanto a chave recebe: {v}')
-
-print(f'o vencedor tirou {maior}')
