@@ -3,17 +3,14 @@
 """
 from random import randint
 
-
-aposta = dict()
-jogadores = list()
+jogadores = []
+aposta = {}
+maior = 0
 
 for i in range(0, 4):
-    aposta = {
-        'jogador': f'jogador{i+1}',
-        'numero': randint(1, 6)
-    }
+    aposta[f'jogador{i+1}'] = randint(1, 6)
     print(aposta)
     jogadores.append(aposta.copy())
     aposta.clear()
-print(jogadores)
 
+print(jogadores)
