@@ -14,10 +14,10 @@ if carteira > 0:
     ctps['carteira de trabalho'] = carteira
     ctps['contratação'] = int(input('ano de contratação: '))
     ctps['salario'] = float(input('salario: '))
-    aposentadoria = ctps['idade'] - 35
+    aposentadoria = atual - ctps['contratação'] + 35
     ctps['aposentadoria'] = aposentadoria
 else:
-    ctps['carteira de trabalho'] = 'não tem'
+    ctps['carteira'] = 'não tem'
 print('_'*50)
 for k, v in ctps.items():
     print(f'{f"{k}: ":<30}{v:>20}')

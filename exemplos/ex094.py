@@ -10,33 +10,35 @@ pessoas = []
 media = c = 0
 
 while True:
-    nome = str(input('nome: '))
-    dados['nome'] = nome
+    dados['nome'] = str(input('nome: '))
     idade = int(input('idade: '))
     dados['idade'] = idade
-    sexo = str(input('sexo: ')).upper()[0]
-    dados['sexo'] = sexo
+    while True:
+        dados['sexo'] = str(input('sexo [M/F]: ')).upper()[0]
+        if dados['sexo'] in 'MF':
+            break
     pessoas.append(dados.copy())
+    dados.clear()
     media += idade
-    c += 1
-    e = input('deseja continuar? [S?N] ').upper()[0]
+    while True:
+        e = input('deseja continuar? [S?N] ').upper()[0]
+        if e in 'NS':
+            break
     if e == 'N':
         break
 
-media = media/c
 
 print('_'*40)
-print(f'A) foram cadastradas {c} pessoas')
+print(f'A) foram cadastradas {len(pessoas)} pessoas')
+media = media/len(pessoas)
 print(f'B) a média de idade foi de {media:.2f} anos')
 
 print(f'C) as mulheres cadastradas foram: ', end='')
 for p in pessoas:
-    for k, v in p.items():
-        if k == 'sexo' and v == 'M':
-            print(p['nome'], end='-')
+    if p['sexo'] == 'F':
+        print(p['nome'], end='-')
 
-print(f'D) pessoas mais velhas que a média: ', end='')
+print(f'\nD) pessoas mais velhas que a média: ', end='')
 for p in pessoas:
-    for k, v in p.items():
-        if k == 'idade' and v > media:
-            print(p['nome'], end='-')
+    if p['idade'] > media:
+        print(p['nome'], end='-')

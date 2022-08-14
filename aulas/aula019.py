@@ -37,7 +37,7 @@ print(filme.keys())
 for keys, values in filme.items():
     print(f'o {keys} é {values}')
 
-# criando dicionário dentro de lista
+# criando dicionário dentro de uma lista
 brasil = list()
 estado1 = {'uf': 'Rio de Janeiro', 'sigla': 'RJ'}
 estado2 = {'uf': 'São Paulo', 'sigla': 'SP'}
