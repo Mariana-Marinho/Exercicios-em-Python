@@ -8,6 +8,7 @@ def getarea(lar, comp):
     print(f'a área de um terreno {lar}mX{comp}m vale {area}m²')
 
 
-largura = int(input('largura do seu terreno: '))
-comprimento = int(input('comprimento: '))
+largura = int(input('largura do seu terreno em m: '))
+comprimento = int(input('comprimento em m: '))
+print('_'*30)
 getarea(largura, comprimento)
