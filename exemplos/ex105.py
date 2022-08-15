@@ -18,11 +18,11 @@ def boletim(*notas, sit=False):
     }
     if sit:
         if 0 <= final['media'] < 5:
-            final['situação'] = = str('reprovado')
+            final['situação'] = str('reprovado')
         elif 5 <= final['media'] < 7:
-            final['situação'] = = str('em recuperacao')
+            final['situação'] = str('em recuperacao')
         else:
-            final['situação'] = = str('aprovado')
+            final['situação'] = str('aprovado')
     return final
 
 

@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios feitos: 098, 098a, 099, 100&#10;exercícios otimizados: 096, 097">
-      <change afterPath="$PROJECT_DIR$/aulas/aula021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/ex106.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios feitos: 101, 102, 103, 104, 105, 106">
+      <change beforePath="$PROJECT_DIR$/exemplos/ex105.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex105.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660531513016</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="exercícios feitos: 101, 102, 103, 104, 105, 106">
+      <created>1660582166724</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1660582166724</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,6 +351,7 @@
     <MESSAGE value="exercícios feitos: 093, 094, 095&#10;exercícios otimizados: 091, 092" />
     <MESSAGE value="exercícios feitos: 096, 097&#10;exercícios otimizados: 091, 092, 093, 094, 095" />
     <MESSAGE value="exercícios feitos: 098, 098a, 099, 100&#10;exercícios otimizados: 096, 097" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios feitos: 098, 098a, 099, 100&#10;exercícios otimizados: 096, 097" />
+    <MESSAGE value="exercícios feitos: 101, 102, 103, 104, 105, 106" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios feitos: 101, 102, 103, 104, 105, 106" />
   </component>
 </project>
