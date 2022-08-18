@@ -5,22 +5,30 @@ Função leiaint() e leiafloat(), com tratamento de exceções
 
 def leia_int(frase):
     while True:
-        numero = input(frase)
         try:
-            return int(numero)
-        except:
-            print(f'deu erro, digite um número inteiro válido')
+            numero = int(input(frase))
+        except KeyboardInterrupt:
+            print('\n\033[31mentrada de dados interrompida\033[m')
+            return 0
+        except (ValueError, TypeError):
+            print(f'\033[31mERRO: digite um número inteiro válido\033[m')
+            continue
+        else:
+            return numero
 
 
 def leia_float(frase):
     while True:
-        numero = input(frase)
         try:
-            return float(numero)
+            numero = float(input(frase))
         except KeyboardInterrupt:
+            print('\n\033[31mentrada de dados interrompida\033[m')
             return 0
-        except:
-            print(f'deu erro, digite um número real válido')
+        except (ValueError, TypeError):
+            print(f'\033[31mERRO: digite um número real válido\033[m')
+            continue
+        else:
+            return numero
 
 
 inteiro = leia_int('digite um número inteiro: ')
