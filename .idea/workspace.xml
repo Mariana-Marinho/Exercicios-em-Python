@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios feitos: 113, 114, 115">
+    <list default="true" id="85830560-151f-40f1-a657-385ed0bd6ec6" name="Changes" comment="exercícios otimizados: 113, 114, 115">
+      <change afterPath="$PROJECT_DIR$/exemplos/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex113.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex113.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex114.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex114.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex115/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex115/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exemplos/ex115/cadastros.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex115/cadastros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos/ex115/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplos/ex115/menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +48,45 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/maria/PycharmProjects/pythonexercicios/exemplos&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maria/PycharmProjects/pythonexercicios/exemplos/ex115a/arquivos&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Other File Types&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\PycharmProjects\pythonexercicios\exemplos\ex115a\arquivos" />
+      <recent name="C:\Users\maria\PycharmProjects\pythonexercicios\exemplos\ex115a\interface" />
       <recent name="C:\Users\maria\PycharmProjects\pythonexercicios\exemplos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\PycharmProjects\pythonexercicios\exemplos\ex115a" />
+      <recent name="C:\Users\maria\PycharmProjects\pythonexercicios\exemplos\ex115a\sistema" />
+      <recent name="C:\Users\maria\PycharmProjects\pythonexercicios\exemplos\ex115a\arquivos" />
       <recent name="C:\Users\maria\PycharmProjects\pythonexercicios\exemplos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex114">
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonexercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exemplos/ex115a" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex115a/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="aula023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,27 +100,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/aula023.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonexercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exemplos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplos/ex106.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.menu" />
         <item itemvalue="Python.ex114" />
         <item itemvalue="Python.ex113" />
-        <item itemvalue="Python.menu" />
         <item itemvalue="Python.aula023" />
-        <item itemvalue="Python.ex106" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660788609060</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="exercícios otimizados: 113, 114, 115">
+      <created>1660834102569</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1660834102569</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,6 +390,7 @@
     <MESSAGE value="exercícios otimizados: 105" />
     <MESSAGE value="exercícios otimizados: 106" />
     <MESSAGE value="exercícios feitos: 113, 114, 115" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios feitos: 113, 114, 115" />
+    <MESSAGE value="exercícios otimizados: 113, 114, 115" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios otimizados: 113, 114, 115" />
   </component>
 </project>
